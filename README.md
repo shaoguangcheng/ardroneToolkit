@@ -57,8 +57,10 @@ Screenshot
 ![pic1](screenshot/ardrone.png "ardrone")
 ![pic2](screenshot/interface.png "interface")
 
+<!--
 contact
 ===============
 If you have any questions about this project, please contact me directly.  
 Email : chengshaoguang1291@gmail.com  
 From Xi'an, China.
+-->
